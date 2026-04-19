@@ -1,9 +1,3 @@
-# syper_olao
-# Anna Moklyakova
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=900&lines=C%2B%2B+%7C+Unreal+Engine+5+%7C+Rendering;Procedural+Planets+%7C+Volumetric+Fog;React+%7C+FastAPI+%7C+Systems)
-
-![Kakashi](https://i.imgur.com/8Km9tLL.png)
 
 # Anna Moklyakova
 
@@ -11,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=C%2B%2B+%7C+Unreal+Engine+5+%7C+Rendering+%7C+Graphics;Procedural+Planets+%7C+Volumetric+Fog+%7C+DX11;React+%7C+FastAPI+%7C+Architecture+%7C+Systems" />
 
-<img src="https://i.imgur.com/8Km9tLL.png" width="220"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uj4D9aHBhzwaopCF1holzkWEFauP82mq_g&s" width="220"/>
 
 </div>
 
