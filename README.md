@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=C%2B%2B+%7C+Unreal+Engine+5+%7C+Rendering+%7C+Graphics;Procedural+Planets+%7C+Volumetric+Fog+%7C+DX11;React+%7C+FastAPI+%7C+Architecture+%7C+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Game+Engine+Developer+%7C+C%2B%2B+%7C+Unreal+Engine+5;Rendering+%7C+Shaders+%7C+HLSL+%7C+Graphics;Procedural+Worlds+%7C+Volumetric+Fog+%7C+DX11;Systems+%7C+Architecture+%7C+Backend+%7C+React" />
+
 
 <img src="https://i.pinimg.com/originals/12/52/b0/1252b0325e6a741d9201ecf5f565d1f7.gif" width="250"/>
 
@@ -28,9 +29,9 @@ I build systems, not just features.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unreal_Engine-0D1117?style=flat-square&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/HLSL-1E90FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/PixiJS-8E44AD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/HLSL-1E90FF?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/PixiJS-8E44AD?style=for-the-badge" height="35"/>
 </p>
 
 ---
