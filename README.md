@@ -26,52 +26,15 @@ I work across the full stack of development — from low-level systems and rende
 
 ## Tech Stack
 <p align="center">
-  <a href="https://isocpp.org/">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="50"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="50"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50"/>
-  </a>
-  <a href="https://nestjs.com/">
-    <img src="https://skillicons.dev/icons?i=nest&theme=dark" height="50"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="50"/>
-  </a>
-  <a href="https://threejs.org/">
-    <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="50"/>
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://skillicons.dev/icons?i=unity&theme=dark" height="50"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="50"/>
-  </a>
-  <a href="https://redis.io/">
-    <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50"/>
-  </a>
-  <a href="https://www.rabbitmq.com/">
-    <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" height="50"/>
+  <a href="https://github.com/SyperOlao">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,ts,react,nest,fastapi,threejs,unity,docker,redis,rabbitmq&theme=dark" />
   </a>
 </p>
-
 <p align="center">
-  <a href="https://www.unrealengine.com/">
+  <a href="https://github.com/SyperOlao/ShadowAges-unreal">
     <img src="https://img.shields.io/badge/Unreal_Engine-0D1117?style=for-the-badge&logo=unrealengine&logoColor=white" height="35"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl">
+  <a href="https://github.com/SyperOlao/Mini-Engine-With-Games">
     <img src="https://img.shields.io/badge/HLSL-1E90FF?style=for-the-badge" height="35"/>
   </a>
   <a href="https://pixijs.com/">
