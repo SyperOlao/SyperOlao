@@ -41,15 +41,3 @@ I work across the full stack of development — from low-level systems and rende
     <img src="https://img.shields.io/badge/PixiJS-8E44AD?style=for-the-badge" height="35"/>
   </a>
 </p>
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyperOlao&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyperOlao&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="120"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyperOlao&theme=tokyonight&utcOffset=3" height="120"/>
-</p>
-
----
