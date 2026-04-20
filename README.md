@@ -13,11 +13,12 @@
 
 ## About me
 
-I build systems, not just features.
+I work across the full stack of development — from low-level systems and rendering to backend services and web interfaces.
 
-- 🎮 Game / Engine developer (C++, UE5, rendering)
-- 🌌 Working on procedural planets, volumetric fog, and runtime generation
+- 🎮 Game / Engine developer (C++, UE5, Unity, rendering)
+- 🌌 Frontend experience with React, Three.js, PixiJS  
 - ⚙️ Strong focus on architecture (DDD, DI, modular systems)
+- 🌐 Backend, parsers, automation tools, and data pipelines  
 - 📊 Also doing data engineering (ETL, Airflow, analytics pipelines)
 - 🧪 Currently researching **Multi-GPU voxel rendering**
 
