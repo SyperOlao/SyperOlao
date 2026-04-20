@@ -41,7 +41,6 @@ I build systems, not just features.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SyperOlao&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" height="120"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyperOlao&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="120"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyperOlao&theme=tokyonight" height="120"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyperOlao&theme=tokyonight&utcOffset=3" height="120"/>
 </p>
 
